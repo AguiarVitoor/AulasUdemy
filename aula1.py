@@ -1,3 +1,5 @@
+print('hello word')
+
 """
 DocString
 E escrever o que eu 
